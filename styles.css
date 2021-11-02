@@ -1,0 +1,33 @@
+/* THE NEW TYPOGRAPHY */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #FAFAFA; 
+  color: #090909; 
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.3;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+p {
+  padding: 0.5em;
+  font-weight: 500;
+}
+
+header {
+  text-align: center;
+}
+
+small {
+  font-size: 0.75em;
+  opacity: 50%;
+}
